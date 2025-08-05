@@ -1,0 +1,7 @@
+# requirements.txt
+PyQt5
+pychromecast
+yt-dlp
+protobuf==3.20.3
+Pillow
+requests
